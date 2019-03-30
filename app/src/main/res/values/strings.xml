@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Salim Currency Convertor</string>
+    <string-array name="Currency_list">
+        <item>Pounds</item>
+        <item>Yen</item>
+        <item>Won</item>
+        <item>Euro</item>
+        <item>CFA</item>
+</string-array>
+</resources>
